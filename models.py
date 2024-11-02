@@ -52,3 +52,4 @@ class BookUpdate(BaseModel):
                 "synopsis": "Don Quixote is a Spanish novel by Miguel de Cervantes..."
             }
         }
+
